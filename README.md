@@ -7,7 +7,4 @@
 
 ### How do I get set up? ###
 sfgasgfag
-
-asaf
-dsfgsdfg
-fasdg
+afg
