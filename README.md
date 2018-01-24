@@ -5,5 +5,4 @@
 * Github PullRequest initiates Bamboo build in the source (originating branch)
 
 
-### How ddssdg
-sdgasdg
+### How ddssdggfsdsfgsgfj
