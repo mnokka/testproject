@@ -6,5 +6,4 @@
 
 
 ### How do I get set up? ###
-sfgasgfag
-afg
+asgfasdg
